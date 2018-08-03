@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dock</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="facebook_app_id">488802601560751</string>
+    <string name="fb_login_protocol_scheme">fb488802601560751</string>
+</resources>

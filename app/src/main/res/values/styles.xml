@@ -1,0 +1,23 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textViewStyle">@style/Font</item>
+        <item name="android:buttonStyle">@style/FontButton</item>
+        <item name="android:fontFamily">@font/roboto_font</item>
+    </style>
+
+    <style name="Font" parent="android:Widget.TextView">
+        <item name="android:fontFamily">@font/roboto_font</item>
+    </style>
+
+    <style name="FontButton" parent="android:Widget.Holo.Button">
+        <item name="android:fontFamily">@font/roboto_font</item>
+    </style>
+
+    <style name="style_no_title" parent="AppTheme">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>
